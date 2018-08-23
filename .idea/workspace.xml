@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7003b11-f7f6-49d9-85b9-79144a982afd" name="Default" comment="" />
+    <list default="true" id="a7003b11-f7f6-49d9-85b9-79144a982afd" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/index.components.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +19,26 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+            <state relative-caret-position="551">
+              <caret line="50" column="6" lean-forward="true" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.components.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.components.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="libraries.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libraries.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -35,8 +58,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -44,6 +71,10 @@
         <option value="$PROJECT_DIR$/common.css" />
         <option value="$PROJECT_DIR$/common.js" />
         <option value="$PROJECT_DIR$/loader.js" />
+        <option value="$PROJECT_DIR$/component.libraries.js" />
+        <option value="$PROJECT_DIR$/component.library.js" />
+        <option value="$PROJECT_DIR$/index.components.js" />
+        <option value="$PROJECT_DIR$/libraries.config.js" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -64,6 +95,7 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -89,6 +121,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\HFWorkspace\web\Deparse.GitHub.io" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -119,27 +156,42 @@
       <workItem from="1534832950332" duration="1578000" />
       <workItem from="1534834652857" duration="3777000" />
       <workItem from="1534903196486" duration="3714000" />
-      <workItem from="1534992259462" duration="754000" />
+      <workItem from="1534992259462" duration="10561000" />
     </task>
+    <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/deparse/deparse.github.io&#10;&#10;# Conflicts:&#10;#&#9;index.html">
+      <created>1534994897187</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1534994897187</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Merge branch 'master' of https://github.com/deparse/deparse.github.io&#10;&#10;# Conflicts:&#10;#&#9;index.html">
+      <created>1534996265999</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1534996265999</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9823000" />
+    <option name="totallyTimeSpent" value="19630000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25746268" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -156,6 +208,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge branch 'master' of https://github.com/deparse/deparse.github.io&#10;&#10;# Conflicts:&#10;#&#9;index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/deparse/deparse.github.io&#10;&#10;# Conflicts:&#10;#&#9;index.html" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -216,10 +272,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/component.libraries.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.components.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+        <state relative-caret-position="551">
+          <caret line="50" column="6" lean-forward="true" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
         </state>
       </provider>
     </entry>
